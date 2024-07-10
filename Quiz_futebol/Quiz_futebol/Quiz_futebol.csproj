@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7511825-CE06-4736-82A3-6C020934ACAA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Quiz_futebol</RootNamespace>
+    <AssemblyName>Quiz_futebol</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta1.Designer.cs">
+      <DependentUpon>Pergunta1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta10.Designer.cs">
+      <DependentUpon>Pergunta10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta2.Designer.cs">
+      <DependentUpon>Pergunta2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta3.Designer.cs">
+      <DependentUpon>Pergunta3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta4.Designer.cs">
+      <DependentUpon>Pergunta4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta5.Designer.cs">
+      <DependentUpon>Pergunta5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta6.Designer.cs">
+      <DependentUpon>Pergunta6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta7.Designer.cs">
+      <DependentUpon>Pergunta7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta8.Designer.cs">
+      <DependentUpon>Pergunta8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pergunta9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pergunta9.Designer.cs">
+      <DependentUpon>Pergunta9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resposta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resposta.Designer.cs">
+      <DependentUpon>Resposta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Saudacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saudacao.Designer.cs">
+      <DependentUpon>Saudacao.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta1.resx">
+      <DependentUpon>Pergunta1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta10.resx">
+      <DependentUpon>Pergunta10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta2.resx">
+      <DependentUpon>Pergunta2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta3.resx">
+      <DependentUpon>Pergunta3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta4.resx">
+      <DependentUpon>Pergunta4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta5.resx">
+      <DependentUpon>Pergunta5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta6.resx">
+      <DependentUpon>Pergunta6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta7.resx">
+      <DependentUpon>Pergunta7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta8.resx">
+      <DependentUpon>Pergunta8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pergunta9.resx">
+      <DependentUpon>Pergunta9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resposta.resx">
+      <DependentUpon>Resposta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saudacao.resx">
+      <DependentUpon>Saudacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FdMO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHAM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy1.webp" />
+    <None Include="Resources\NEY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PE - Copia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\socrates-comemorando-gol-pelo-corinthians-1613756247465_v2_3x4-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MESSI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CR7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%291.jPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%292.jPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%293.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-mangalassery-978695.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-04 at 21.36.13.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-mangalassery-9786951.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%294.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-04 at 21.36.131.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%292.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

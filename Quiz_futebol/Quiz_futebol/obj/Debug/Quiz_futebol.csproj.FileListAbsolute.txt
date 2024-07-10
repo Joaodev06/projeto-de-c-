@@ -1,0 +1,85 @@
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe.config
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.pdb
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csprojAssemblyReference.cache
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Form1.resources
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Properties.Resources.resources
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.GenerateResource.cache
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.exe
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.pdb
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Login.resources
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Cadastro.resources
+C:\Users\alunos\Desktop\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Saudacao.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe.config
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.pdb
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csprojAssemblyReference.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Cadastro.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Form1.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Login.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Properties.Resources.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Saudacao.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.GenerateResource.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.pdb
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe.config
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.pdb
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Cadastro.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Form1.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Login.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Properties.Resources.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Saudacao.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.GenerateResource.cache
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.CoreCompileInputs.cache
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.exe
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe.config
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\bin\Debug\Quiz_futebol.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.AssemblyReference.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Cadastro.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Form1.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Login.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Properties.Resources.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Saudacao.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.GenerateResource.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta10.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta10.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta1.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta2.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta3.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta4.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta5.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta6.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta7.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta8.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta9.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Resposta.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta1.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta2.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta3.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta4.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta5.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta6.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta7.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta8.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta9.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Resposta.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta1.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta10.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta2.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta3.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta4.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta5.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta6.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta7.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta8.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Pergunta9.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.Resposta.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\C#\Quiz_futebol\Quiz_futebol\obj\Debug\Quiz_futebol.csproj.AssemblyReference.cache
